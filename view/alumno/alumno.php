@@ -1,4 +1,4 @@
-<h1>Alumnos</h1>
+<h1>Alumnos Lista de Gaby</h1>
 
 <div>
     <a href="?c=Alumno&a=Crud">Nuevo alumno</a>
